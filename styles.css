@@ -1,0 +1,31 @@
+body { 
+    margin: 0;
+    padding: 0; 
+}
+
+#map { 
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%; 
+}
+
+.map-overlay {
+    position: absolute;
+    left: 1px;
+    background-color: rgba(0, 0, 0, 0.6);
+    font-size: .85em;
+    color: rgb(228, 228, 228);
+    margin-left: -2%;
+    padding-right: 1.5em;    
+}
+
+.legendHeader{
+    font-size: 1em;
+    font-weight: bolder;
+  }
+
+  li{
+    list-style-type: none;
+    border-left: 2em solid red;
+}
