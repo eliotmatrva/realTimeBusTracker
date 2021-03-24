@@ -1,7 +1,7 @@
 # realTimeBusTracker
 
 <h2>Project Description</h2>
-This web app gets the current locations of all Massachusetts Bay Transit Authority ("MBTA") buses, then plots them on a map.  The map updates every 15 seconds.
+This web app gets the current locations of all Massachusetts Bay Transit Authority ("MBTA") buses, then plots them on a map.
 General features:
 1. MBTA bus locations refreshed every 15 seconds.
 2. Buses are color coded, and the included legend provides the bus IDs for each color.
