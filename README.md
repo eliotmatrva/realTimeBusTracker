@@ -7,7 +7,7 @@ General features:
 2. Buses are color coded, and the included legend provides the bus IDs for each color.
 
 <h2>How to Run</h2>
-(1) Download the following 3 files from the masterbranch of this repository into a directory on your local machine: 
+(1) Download the following 3 files from this repository into a directory on your local machine: 
 <ul>
   <li>mapanimation.js</li>
   <li>styles.css</li>
